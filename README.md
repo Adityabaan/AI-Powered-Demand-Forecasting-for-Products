@@ -92,8 +92,8 @@ https://github.com/Adityabaan/AI-Powered-Demand-Forecasting-for-Products.git
 
 ## 🧑‍🎓 Acknowledgments
 
-Project by [Your Name].  
-Partially fulfilling requirements of the Minor in AI, Indian Institute of Technology, Ropar.
+Project by **Adityabaan Tripathy**.  
+Partially fulfilling requirements of the **Minor in AI, Indian Institute of Technology, Ropar**.
 
 ---
 
