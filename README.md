@@ -8,6 +8,8 @@ This project leverages machine learning to predict product demand using multidim
 ## 📜 Project Overview
 
 This project was submitted in partial fulfillment of the Minor in AI program by the **Indian Institute of Technology, Ropar**.
+![Image Alt](https://github.com/Adityabaan/AI-Powered-Demand-Forecasting-for-Products/blob/54a238ba3fafcdabe6a209dfe8594a7f7c88dda6/iitr-banner.png)
+![Image Alt](https://github.com/Adityabaan/AI-Powered-Demand-Forecasting-for-Products/blob/54a238ba3fafcdabe6a209dfe8594a7f7c88dda6/images3.jpeg)
 
 **Goal:**  
 Enable businesses to make smarter inventory and marketing decisions by accurately forecasting product demand. The system uses historical sales data, marketing info, pricing, promotions, and seasonality to train AI models that can predict future demand at the product level.
