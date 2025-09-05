@@ -8,6 +8,7 @@ This project leverages machine learning to predict product demand using multidim
 ## 📜 Project Overview
 
 This project was submitted in partial fulfillment of the Minor in AI program by the **Indian Institute of Technology, Ropar**.
+
 ![Image Alt](https://github.com/Adityabaan/AI-Powered-Demand-Forecasting-for-Products/blob/54a238ba3fafcdabe6a209dfe8594a7f7c88dda6/iitr-banner.png)
 ![Image Alt](https://github.com/Adityabaan/AI-Powered-Demand-Forecasting-for-Products/blob/54a238ba3fafcdabe6a209dfe8594a7f7c88dda6/images3.jpeg)
 
